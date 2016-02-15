@@ -15,6 +15,7 @@
     <div id="textarea" class="drag box-shadow">点击或拖拽上传图片</div>
     <div id="walltitle" style="display:none;"><h1>已上传图片</h1></div>
     <div id="show"></div>
+    <div class="author">© Volio</div>
     <script src="upload.js"></script>
 </body>
 </html> 

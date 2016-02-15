@@ -15,3 +15,4 @@ html,body{font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, "Hiragino
 .imgsrc{float: left;margin:5px;}
 .showimage{height: 150px;width:150px;background-size:cover;background-position: center;}
 #walltitle{margin:2em 2em .5em 2em;font-weight: bold;}
+.author{position:fixed;bottom:0;right:0;color:#585858;font-weight:bold;margin:2px;}
