@@ -12,4 +12,5 @@
 
 就可以使用了
 
-#[Volio](https://niconiconi.org)
+##LICENSE
+MIT © [Volio](https://niconiconi.org)
