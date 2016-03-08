@@ -8,7 +8,7 @@
     <script src="//cdn.bootcss.com/jquery.form/3.51/jquery.form.js"></script>
 </head>  
 <body>
-    <form enctype="multipart/form-data" method="post" action="http://up.tietuku.com/" id = "upform">
+    <form enctype="multipart/form-data" method="post" action="http://up.tietuku.cn/" id = "upform">
 		<input name="Token" id = "token" value="" type="hidden">
 		<input type="file" name="file" id = "selectimage" onchange="upload();">
 	</form>
