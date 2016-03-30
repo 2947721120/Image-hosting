@@ -33,7 +33,7 @@ function upload(){
 };
 
 window.onload = function(){
-	textarea.style.cssText = "background-image: url(//api.img.niconico.in/bing/);";
+	textarea.style.cssText = "background-image: url(http://ww2.sinaimg.cn/large/a15b4afegw1f0op3ut36wj21kw0idads.jpg);";
     $.ajax({
         type: 'GET',
         url: 'ajax.php?_r=' + Math.random(),
